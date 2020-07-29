@@ -1,0 +1,43 @@
+h1 {
+	font-family: CMM Serif;
+	text-align: center;
+	font-size: 36px;
+	color: #002366;
+}
+
+h2 {
+	font-family: CMU Serif;
+	text-align: center;
+	font-size: 22px;
+	color: #002366;
+}
+
+body {
+	background-color: #98FB98;
+}
+
+.media {
+	text-align: center;
+	font-family: CMU Serif;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+	img {
+		max-height: 400px;
+		max-width: 400px;
+		padding-top: 2.5%;
+	}
+
+.intro {
+	text-align: center;
+	font-family: CMU Serif;
+	font-size: 16px;
+	padding-left: 15%;
+	padding-right: 15%;
+	color: #002366;
+}
+
+.imagetable {
+	text-align: center;
+}
